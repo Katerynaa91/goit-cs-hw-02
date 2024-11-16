@@ -8,5 +8,5 @@ docker run -d -p 8000:8000 app-img
 docker-compose up -d
 
 Image from browser showing that connection with docker worked:
-![image-docker](docker_running.png)
+![image-docker](/Task2/Computer-Systems-hw02/docker_running.png)
 
